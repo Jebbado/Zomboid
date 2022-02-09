@@ -1,0 +1,54 @@
+module Smores
+{
+	imports
+	{
+		Base
+	}
+	
+	item Smores
+	{
+		DisplayName =	Smores,
+		Type =	Food,
+		DisplayCategory = Food,
+		
+		HungerChange =	-20,
+		ThirstChange =	5,
+		UnhappyChange = -20,
+		
+		IsCookable = TRUE,
+		DangerousUncooked = FALSE,
+		MinutesToCook = 10,
+		MinutesToBurn = 15,
+		
+		Weight =	0.4,		
+		Carbohydrates = 130,
+        Proteins = 11.5,
+        Lipids = 72,
+        Calories = 950,
+        GoodHot = true,
+		
+        WorldStaticModel = Smores,
+		Icon =	Smores,
+		CustomEatSound = EatingCrispy,
+	}
+	
+	recipe Assemble Smores
+	{
+		Chocolate,
+		Marshmallows,
+		GrahamCrackers,		
+		Result:Smores,
+		Time:50.0,
+		Category:Cooking,
+		OnGiveXP:Recipe.OnGiveXP.Cooking3,
+	}
+	
+	recipe Assemble Smores
+	{
+		RippedSheets,		
+		Result:Smores,
+		Time:50.0,
+		Category:Cooking,
+		OnGiveXP:Recipe.OnGiveXP.Cooking3,
+	}
+}
