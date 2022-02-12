@@ -1,8 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<-- Maybe i should put a line for my outfit here ? -->
+
 <fileGuidTable>
 	<files>
-		<path>media/clothing/clothingItems/AmmoStrap_Bullets.xml</path>
-		<guid>15514b21-1567-4a0b-a171-9740ee9b7b3a</guid>
-	</files>	
+		<path>media/clothing/clothingItems/Shoes_Black.xml</path>
+		<guid>593bea3d-c127-4574-ac1e-2197dc56e486</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Socks_Ankle.xml</path>
+		<guid>ebea15c8-99b3-4e20-905b-d22cf82b8217</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Trousers_Suit.xml</path>
+		<guid>52acd769-424a-4cbb-b02a-441cb723b747</guid>
+	</files>
+	<files>
+		<path>media/clothing/clothingItems/Tshirt_DefaultDECAL.xml</path>
+		<guid>d0616b36-b727-4c08-9274-020cb2e72bf8</guid>
+	</files>
 </fileGuidTable>
