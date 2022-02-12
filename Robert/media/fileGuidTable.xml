@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<-- Maybe i should put a line for my outfit here ? -->
+<fileGuidTable>
+	<files>
+		<path>media/clothing/clothingItems/AmmoStrap_Bullets.xml</path>
+		<guid>15514b21-1567-4a0b-a171-9740ee9b7b3a</guid>
+	</files>	
+</fileGuidTable>
