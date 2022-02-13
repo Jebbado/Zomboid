@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingDecals> 
+	<group> <!-- The joy of Zombiing -->
+		<name>JebBobRoss</name>
+		<decal>TShirt_BobRoss_DECAL</decal>
+		<decal>TShirt_BobRoss_DECAL2</decal>
+	</group>		
+</clothingDecals> 

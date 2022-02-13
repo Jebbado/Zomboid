@@ -1,9 +1,5 @@
 require 'Definitions/HairOutfitDefinitions'
 
--- Remove all OutfitDefinitions, even those coming from Zomboid itself.
--- HairOutfitDefinitions.haircutOutfitDefinition = {}
-
---Adding the one, and only, true good zombie : Robert.
 local cat = {};
 cat.outfit = "JebRobert";
 cat.haircut = "ShortAfroCurly:100";
