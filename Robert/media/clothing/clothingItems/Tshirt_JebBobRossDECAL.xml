@@ -8,5 +8,5 @@
 	<m_AllowRandomTint>false</m_AllowRandomTint>
 	<m_AttachBone></m_AttachBone>
 	<m_DecalGroup>JebBobRoss</m_DecalGroup>
-	<m_BaseTextures>clothingtshirt</m_BaseTextures>
+	<m_BaseTextures>clothes\shirt_tshirt_textures\tshirt_black</m_BaseTextures>
 </clothingItem>
